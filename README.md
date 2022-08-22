@@ -19,7 +19,7 @@ I have hosted the flask backend on pythonanywhere for getting the response from 
 
 With the help of  Code:- pip freeze > requirements.txt captured requirements to install for flask app.
 
-
+#Final Outbut
 
 <img width="1128" alt="Screenshot 2022-08-21 172542" src="https://user-images.githubusercontent.com/48359593/185845760-8de2ac1d-0217-43f5-9d16-a16dc9d7e61b.png">
 <img width="1126" alt="Screenshot 2022-08-21 162418" src="https://user-images.githubusercontent.com/48359593/185845767-54abca99-b6b9-4d9c-9201-07d035ae6cbd.png">
