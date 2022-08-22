@@ -16,3 +16,6 @@ Run: npm start
 
 I have hosted the flask backend on pythonanywhere for getting the response from the Api call. So, there is no need to run the flask app. Though I have kept the backend code in repository.
 
+
+With the help of  Code:- pip freeze > requirements.txt captured requirements to install for flask app.
+
