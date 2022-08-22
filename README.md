@@ -1,6 +1,6 @@
 # web_ner_assesment_isi
 
-Flask - Backend
+Flask - Backend, 
 React - Frontend
 
 I have used bootstrap package for designing frontend in React.
